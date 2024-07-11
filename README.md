@@ -4,7 +4,7 @@
 
 🌱 Actualmente estoy aprendiendo y mejorando habilidades en Python y PHP. Tengo experiencia con Visual Studio Code, HTML, CSS, Bootstrap, GIT, GitHub, JavaScript, SQLite, MySQL y phpMyAdmin. También he trabajado con gestores de contenido como Joomla y WordPress.
 
-🦆 Como programador Front-End, me identifico con la analogía del "pato": no soy un experto volador como un pájaro ni un hábil nadador como un pez, pero tengo la versatilidad para adaptarme a diferentes entornos y desarrollar soluciones efectivas y creativas en interfaces de usuario.
+🦆 Como programador Front-End, me identifico con el "pato": no soy un experto volador como un pájaro ni un hábil nadador como un pez, pero tengo la versatilidad para adaptarme a diferentes entornos y desarrollar soluciones efectivas y creativas en interfaces de usuario.
 
 💞 Me gustaría colaborar en proyectos de forma remota. Resido en una ciudad del interior de Argentina. Hablo español nativo 🇪🇸, tengo competencia internacional en portugués 🇧🇷 y un nivel medio de inglés 🇺🇸.
 
