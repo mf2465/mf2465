@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy @mf2465, ¡pero puedes llamarme Miguel!
+👋 ¡Hola! Soy @mf2465, ¡pero puedes llamarme **Miguel**!
 
 👀 Me interesa explorar tecnologías y descubrir nuevas formas de combinar la creatividad con código para desarrollar soluciones innovadoras.
 
