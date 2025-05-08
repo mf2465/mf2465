@@ -2,7 +2,7 @@
 
 👀 Me interesa explorar tecnologías y descubrir nuevas formas de combinar la creatividad con código para desarrollar soluciones innovadoras.
 
-🌱 Actualmente estoy aprendiendo y mejorando habilidades en Python y PHP. Tengo experiencia con Visual Studio Code, HTML, CSS, Bootstrap, GIT, GitHub, JavaScript, SQLite, MySQL y phpMyAdmin. También he trabajado con gestores de contenido como Joomla y WordPress.
+🌱 Actualmente estoy aprendiendo y mejorando habilidades en Python y PHP. Respecto a Linux, dado mis primeros pasos. Tengo experiencia con Visual Studio Code, HTML, CSS, Bootstrap, GIT, GitHub, JavaScript, SQLite, MySQL y phpMyAdmin. También he trabajado con gestores de contenido como Joomla y WordPress. Todos los cursos realizados se encuentran certificados.
 
 🦆 Como desarrollador Front-End, me identifico con el "pato": no soy un experto volador como un halcón ni un hábil nadador como un pez, pero tengo la versatilidad para adaptarme a diferentes entornos y desarrollar soluciones efectivas y creativas a los  usuarios.
 
